@@ -11,5 +11,6 @@
 @interface ATTool : NSObject
 
 + (NSString *)hello;
++ (NSString *)world;
 
 @end
